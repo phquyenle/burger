@@ -10,4 +10,9 @@ In this assignment, you'll create a burger logger with MySQL, Node, Express, Han
 * mysql NPM Package - https://www.npmjs.com/package/mysql
 * handlebars NPM Package - https://www.npmjs.com/package/handlebars
 * express-handlbars NPM Package - https://www.npmjs.com/package/express-handlebars
-
+# How app should look like:
+![](public/assets/img/burger.jpg)
+![](public/assets/img/burger2.jpg)
+# Menu page look like:
+![](public/assets/img/burger4.jpg)
+![](public/assets/img/burger3.jpg)
