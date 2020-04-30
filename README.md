@@ -16,3 +16,9 @@ In this assignment, you'll create a burger logger with MySQL, Node, Express, Han
 # Menu page look like:
 ![](public/assets/img/burger4.jpg)
 ![](public/assets/img/burger3.jpg)
+# GIF of how the app suppose to work:
+![](public/assets/img/burgerdemo.gif)
+![](public/assets/img/burgerdemo2.gif)
+![](public/assets/img/burgerdemo3.gif)
+![](public/assets/img/burgerdemo5.gif)
+![](public/assets/img/burgerde.gif)
